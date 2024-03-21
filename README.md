@@ -9,7 +9,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m currently working at [Casual Wear Apparels LLC] where we were [incubated by ERP] and selected for [ERP system development, maintenance, and upgrading].
+- 🔭 I’m currently working at Casual Wear Apparels LLC where we were incubated by ERP and selected for ERP system development, maintenance, and upgrading.
 - 🌱 I’m passionate about [React JS](https://react.dev/), [JQuery](https://jquery.com/) and [Node JS](https://nodejs.org/en).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the table tennis, and sleep with my dreams!
